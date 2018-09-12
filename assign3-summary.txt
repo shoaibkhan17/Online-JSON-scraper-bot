@@ -1,0 +1,18 @@
+Start Time Thu Mar 15 19:57:54 EDT 2018
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-marbled-murrelet-brachyramphus-marmoratus/CH_39_Brachyramphus_marmoratus.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-foothill-sedge-carex-tumulicola/CH_1014_Carex_tumulicola.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-woodland-caribou-boreal-pop.-rangifer-tarandus-caribou/CH_636_Rangifer_tarandus_caribou_Boreal.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-townsend-s-mole-scapanus-townsendii/CH_142_Scapanus_townsendii.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-woodland-caribou-southern-mountain-pop.-rangifer-tarandus-caribou/CH_638_Rangifer_tarandus_caribou_SouthMountain.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-williamson-s-sapsucker-sphyrapicus-thyroideus/CH_869_Sphyrapicus_thyroideus.json
+Reading in http://donnees.ec.gc.ca/data/species/developplans/critical-habitat-for-species-at-risk-british-columbia/critical-habitat-for-species-at-risk-british-columbia-rocky-mountain-tailed-frog-ascaphus-montanus/CH_632_Ascaphus_montanus.json
+Number of specices: 7
+The list of species are
+Sphyrapicus thyroideus(Williamson's Sapsucker) 1055 7.378443922535709E8
+Rangifer tarandus(Caribou) 3508 7.933137878484956E10
+Rangifer tarandus(Caribou) 6 3.8766578559515E10
+Ascaphus montanus(Rocky Mountain Tailed Frog) 12 4.4882485531904E7
+Scapanus townsendii(Townsend's Mole) 3 1.833559041366E7
+Brachyramphus marmoratus(Marbled Murrelet) 61051 2.1152219700229637E10
+Carex tumulicola(Foothill Sedge) 9 9054748.549818
+End Time Thu Mar 15 20:04:37 EDT 2018
